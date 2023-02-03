@@ -27,7 +27,7 @@ const generateEngineer = function (engineer) {
         <ul>
             <li>ID: ${engineer.id} </li>
             <li>Email: <a href="mailto:${engineer.email}">${engineer.email}</a> </li>
-            <li>GitHub: <a href="https://github.com/${engineer.gitHub}">${engineer.gitHub}</a></li>
+            <li>GitHub: <a href="https://github.com/${engineer.gitHub}" target="_blank">${engineer.gitHub}</a></li>
         </ul>
     </div>
 </section>
