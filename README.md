@@ -17,7 +17,7 @@ After downloading the repo, open the terminal and type "npm install" in the comm
 
 ## Usage
 
-[Video Walkthrough]()
+[Video Walkthrough](https://drive.google.com/file/d/1voZrk2kjVVypkcu6KjJYP_AiVMFwIihu/view)
 
 ## License
 
